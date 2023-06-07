@@ -87,5 +87,5 @@ def test():
         assert type(e) == MealyError
 
 
-if __name__ == '__main__':
-    test()
+# if __name__ == '__main__':
+#     test()
